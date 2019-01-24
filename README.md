@@ -23,6 +23,7 @@ This repo is to keep a record of the random ideas I have and minor documentation
 * BTS song reccomendation 
   * Python
   * MySQL
+  * [Starting point?](https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85)
 * Would you rather 
   * Python
 * Feed in RGB colours, decide if the text is over the top should be light or dark for it to be readable
@@ -45,3 +46,10 @@ This repo is to keep a record of the random ideas I have and minor documentation
   * Quick thoughts page
     * for family blog posts i.e. what we have been up so, something funny/great happens at home, I can update mum and dad when I'm at Uni by updating the page and vise vers.
 
+### Tutorial Sandbox
+This is a temporary store for the links of courses and tutorials that look interesting (both free and priced). Once the course is started the projects will be moved to a different repo with the prefix: course-, as shown above. 
+
+* [Deep Learning Foundation Nanodegree at Udacity](https://eu.udacity.com/course/deep-learning-nanodegree--nd101)
+* [Machine learning course at Udemy](https://www.udemy.com/courses/search/?src=ukw&q=machine+learning)
+* [Generative art using strings](https://simpleprogrammer.com/python-generative-art-math/)
+  * Python
