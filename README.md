@@ -18,33 +18,43 @@ Miscellaneous  | msc-
 ## Purpose 
 This repo is to keep a record of the random ideas I have and minor documentation for said projects. When the ideas begin to take shape I will move them to their own repo with the prefix "pp-" to denote that they're a personal project. 
 
+
 ## The Sandbox 
 
 * BTS song reccomendation 
-  * Python
-  * MySQL
-  * [Starting point?](https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85)
+    * Python
+    * MySQL
+    * [Starting point?](https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85)
 * Would you rather 
-  * Python
+    * Python
 * Feed in RGB colours, decide if the text is over the top should be light or dark for it to be readable
-  * Python (?)
-  * Implements some ML concepts
+    * Python (?)
+    * Implements some ML concepts
 * Iris flowe diffrentiation 
-  * Python
-  * Sklrearn or tensorflow
+    * Python
+    * Sklrearn or tensorflow
 * Determine if Jedi or Sith based on colour of weapon
-  * Colour, culture(Sith or Jedi), blade type/# of blades
+    * Colour, culture(Sith or Jedi), blade type/# of blades
 * Bangtan bot 
-  * Twitter 
-    ..* Creates random sentence with the members names in 
-  * [Medium article on east setup of bot](https://medium.freecodecamp.org/easily-set-up-your-own-twitter-bot-4aeed5e61f7f)
-  * [Botwiki resource on the difinitive guide](https://botwiki.org/resource/tutorial/how-to-make-a-twitter-bot-the-definitive-guide/)
+    * Twitter 
+        * Creates random sentence with the members names in 
+    * [Medium article on east setup of bot](https://medium.freecodecamp.org/easily-set-up-your-own-twitter-bot-4aeed5e61f7f)
+    * [Botwiki resource on the difinitive guide](https://botwiki.org/resource/tutorial/how-to-make-a-twitter-bot-the-definitive-guide/)
 * Update [fitton.co.uk](http://fitton.co.uk/index.html) site 
-  * Base link for eeryones portfolios 
-  * Update email with changed surname
-  * Family photo gallery
-  * Quick thoughts page
-    * for family blog posts i.e. what we have been up so, something funny/great happens at home, I can update mum and dad when I'm at Uni by updating the page and vise vers.
+    * HTML
+    * CSS
+    * JavaScript
+    * Base link for eeryones portfolios 
+    * Update email with changed surname
+    * Family photo gallery
+    * Quick thoughts page
+        * for family blog posts i.e. what we have been up so, something funny/great happens at home, I can update mum and dad when I'm at Uni by updating the page and vise vers.
+* Website for Kojey Radical
+    * HTML
+    * CSS
+    * JavaScript
+    * Doesn't have an existing artist page, do some research on how other artist have their work set out to get inspiration
+
 
 ### Tutorial Sandbox
 This is a temporary store for the links of courses and tutorials that look interesting (both free and priced). Once the course is started the projects will be moved to a different repo with the prefix: course-, as shown above. 
