@@ -63,3 +63,37 @@ This is a temporary store for the links of courses and tutorials that look inter
 * [Machine learning course at Udemy](https://www.udemy.com/courses/search/?src=ukw&q=machine+learning)
 * [Generative art using strings](https://simpleprogrammer.com/python-generative-art-math/)
   * Python
+* 
+
+
+### Certifications Sandbox
+* AWS
+    * Solutions architect 
+        * What can be done
+        * Exam based
+        * Prep available on Udemy
+    * DevOps
+        * How things can be done 
+        * Exam based
+        * Prep available on Udemy
+* Redhat
+    * Certificate of Expertise in Ansible Automation
+        * Performance based 
+* Microsoft
+    * MTA: Microsoft Technology Associate 
+        * Entry level
+        * No pre-requisites
+    * MCSA: Microsoft Certified Solutions Associate
+        * Pre-requisite: tech through existing skills or MTA certificaton 
+    * MSCE: Microsoft Certified solutions experties
+        * IT professionals, 
+        * Pre-requisite: MCSA
+    * MCSD: Microsoft Certified Solutions Developer
+        * IT professionals, focused in programming/engineering
+        * Pre-requisite: MCSA
+    * MOS: Microsoft office specialist 
+        * demonstrates proficienct in Microsoft Office Programs
+* Cloudera
+    * CCSS Spark and Hadoop Developer Exam (CCA175)
+        * Spark, Scala, Python etc. 
+        
