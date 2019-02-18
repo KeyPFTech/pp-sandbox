@@ -96,4 +96,11 @@ This is a temporary store for the links of courses and tutorials that look inter
 * Cloudera
     * CCSS Spark and Hadoop Developer Exam (CCA175)
         * Spark, Scala, Python etc. 
-        
+* Google
+    * Google Developers Certification
+    * Associate Android Developer
+    * Mobile Web Specialist 
+    * Google Cloud Certified - Professional Cloud Architect 
+    * Google Cloud Certified - Professional Data Engineer
+    * Google Cloud Certified - Associate Clound Engineer
+    
