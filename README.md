@@ -63,7 +63,8 @@ This is a temporary store for the links of courses and tutorials that look inter
 * [Machine learning course at Udemy](https://www.udemy.com/courses/search/?src=ukw&q=machine+learning)
 * [Generative art using strings](https://simpleprogrammer.com/python-generative-art-math/)
   * Python
-* 
+* [Learning how to learn at Coursera](https://www.coursera.org/learn/learning-how-to-learn) --it's free!
+
 
 
 ### Certifications Sandbox
