@@ -23,9 +23,15 @@ This repo is to keep a record of the random ideas I have and minor documentation
 
 * BTS song reccomendation 
     * Python
+        * With libraries: [Spotipy](https://spotipy.readthedocs.io/en/latest/), and [Pandas](https://pandas.pydata.org/) (to get data on songs), 
     * MySQL
     * [Starting point?](https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85)
     * [Example of unsupervised approach using key, tempo, etc](https://towardsdatascience.com/music-to-my-ears-an-unsupervised-approach-to-user-specific-song-recommendation-6c291acc2c12)
+    * [Data science of Kpop](https://towardsdatascience.com/the-data-science-of-k-pop-understanding-bts-through-data-and-a-i-part-1-50783b198ac2)
+* Evolutionary Art Algo 
+    * Try with BTS or african print 
+* NLP 
+    * Write a song based off lyrics of an already given song e.g. BTS, Janelle Monae, Lizzo, Kojey Radical, Anderson Paak., Childish Gambino etc (lol its going to be crazy)
 * Would you rather 
     * Python
 * Feed in RGB colours, decide if the text is over the top should be light or dark for it to be readable
@@ -55,6 +61,13 @@ This repo is to keep a record of the random ideas I have and minor documentation
     * CSS
     * JavaScript
     * Doesn't have an existing artist page, do some research on how other artist have their work set out to get inspiration
+* Smart Mirror
+    * Update: April 2019 - Out of budget atm 
+    * [Rasberry Pi](https://www.makeuseof.com/tag/6-best-raspberry-pi-smart-mirror-projects-weve-seen-far/)
+    * [The original Magic Mirror](https://github.com/MichMich/MagicMirror#installation)
+* Semantic stuff 
+    * [overarching topic of group using ML](https://medium.com/@nguy3409/discovering-overarching-themes-of-kpop-boy-band-bts-using-machine-learning-246c69115ac8)
+
 
 
 ### Tutorial Sandbox
