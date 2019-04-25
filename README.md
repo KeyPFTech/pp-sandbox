@@ -105,3 +105,18 @@ This is a temporary store for the links of courses and tutorials that look inter
     * Google Cloud Certified - Professional Data Engineer
     * Google Cloud Certified - Associate Clound Engineer
     
+
+## Girl, it's not THAT hard to update the Git
+* For all must navigate to where to be accessed in right directory
+* Try and remember to update before you start working on a new doc so that you have the most recent version of the repo.
+    * BUT DONT UPDATE AFTER YOU HAVE EDITED A FILE otherwise your work will be overwritten with what is currently on the Git aka not good!
+### Pull/Clone 
+* `git clone [url]`
+
+### Update
+* `git pull`
+
+### Add work to repo
+* `git add .` OR `git add [filename]`(adds all vs chosen file)
+* `git commit -m "comment"`
+* `git push origin` OR `git push -u origin branch_name`
