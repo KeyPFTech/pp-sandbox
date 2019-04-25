@@ -25,6 +25,7 @@ This repo is to keep a record of the random ideas I have and minor documentation
     * Python
     * MySQL
     * [Starting point?](https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85)
+    * [Example of unsupervised approach using key, tempo, etc](https://towardsdatascience.com/music-to-my-ears-an-unsupervised-approach-to-user-specific-song-recommendation-6c291acc2c12)
 * Would you rather 
     * Python
 * Feed in RGB colours, decide if the text is over the top should be light or dark for it to be readable
