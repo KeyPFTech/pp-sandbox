@@ -78,7 +78,8 @@ This is a temporary store for the links of courses and tutorials that look inter
 * [Generative art using strings](https://simpleprogrammer.com/python-generative-art-math/)
   * Python
 * [Learning how to learn at Coursera](https://www.coursera.org/learn/learning-how-to-learn) --it's free!
-
+* [Skillshare - Machine Learning and Data Science by Frank Kane](https://youtu.be/uBaU-n77B2Q?t=134)
+    * Use affiliate link
 
 
 ### Certifications Sandbox
