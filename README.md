@@ -21,6 +21,8 @@ This repo is to keep a record of the random ideas I have and minor documentation
 
 ## The Sandbox 
 
+* Personal website/onepage portfolio
+    * .dev domain?
 * BTS song reccomendation 
     * Python
         * With libraries: [Spotipy](https://spotipy.readthedocs.io/en/latest/), and [Pandas](https://pandas.pydata.org/) (to get data on songs), 
