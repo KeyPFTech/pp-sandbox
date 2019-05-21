@@ -12,6 +12,7 @@ Personal project  | pp-
 University  | uni-csXXX-
 Interview prep  | intv-
 Online courses/tutorials  | course-
+Work  | work-
 Miscellaneous  | msc-
 
 
