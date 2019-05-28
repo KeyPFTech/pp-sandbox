@@ -24,13 +24,18 @@ This repo is to keep a record of the random ideas I have and minor documentation
 
 * Personal website/onepage portfolio
     * .dev domain?
-* BTS song reccomendation 
+* BTS song (content based) reccomendation 
     * Python
         * With libraries: [Spotipy](https://spotipy.readthedocs.io/en/latest/), and [Pandas](https://pandas.pydata.org/) (to get data on songs), 
     * MySQL
     * [Starting point?](https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85)
     * [Example of unsupervised approach using key, tempo, etc](https://towardsdatascience.com/music-to-my-ears-an-unsupervised-approach-to-user-specific-song-recommendation-6c291acc2c12)
     * [Data science of Kpop](https://towardsdatascience.com/the-data-science-of-k-pop-understanding-bts-through-data-and-a-i-part-1-50783b198ac2)
+    * [Springer thesis](https://link.springer.com/chapter/10.1007%2F978-1-4899-7637-6_13)
+    * Medium Blog post 
+        * by [Eric Le, 2017](https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85)
+        * by [Brian Srebrenik, 2018](https://medium.com/@briansrebrenik/introduction-to-music-recommendation-and-machine-learning-310c4841b01d)
+    * BTS song [complete guide April 2019](https://www.hypable.com/bts-song-album-list-complete-guide/)
 * Evolutionary Art Algo 
     * Try with BTS or african print 
 * NLP 
