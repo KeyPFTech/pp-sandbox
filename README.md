@@ -87,7 +87,7 @@ This is a temporary store for the links of courses and tutorials that look inter
   * Python
 * [Learning how to learn at Coursera](https://www.coursera.org/learn/learning-how-to-learn) --it's free!
 * [Skillshare - Machine Learning and Data Science by Frank Kane](https://youtu.be/uBaU-n77B2Q?t=134)
-    * Use affiliate link
+    * Use affiliate link (from youtuber/blog?)
 
 
 ### Certifications Sandbox
@@ -129,7 +129,7 @@ This is a temporary store for the links of courses and tutorials that look inter
     * Google Cloud Certified - Associate Clound Engineer
     
 
-## Girl, it's not THAT hard to update the Git
+## Whew Chile, it's not THAT hard to update the Git
 * For all must navigate to where to be accessed in right directory
 * Try and remember to update before you start working on a new doc so that you have the most recent version of the repo.
     * BUT DONT UPDATE AFTER YOU HAVE EDITED A FILE otherwise your work will be overwritten with what is currently on the Git aka not good!
