@@ -129,6 +129,17 @@ This is a temporary store for the links of courses and tutorials that look inter
     * Google Cloud Certified - Associate Clound Engineer
     
 
+## And I oop- Python versions?!
+[Anaconda documentation](https://docs.anaconda.com/anaconda/user-guide/tasks/switch-environment/)
+py2 = python 2.7
+py3 = python 3.5
+### Activate an environment 
+* `conda activate [version]`
+
+### Deactivate an environment 
+* `conda deactivate`
+
+
 ## Whew Chile, it's not THAT hard to update the Git
 * For all must navigate to where to be accessed in right directory
 * Try and remember to update before you start working on a new doc so that you have the most recent version of the repo.
