@@ -133,6 +133,7 @@ This is a temporary store for the links of courses and tutorials that look inter
 [Anaconda documentation](https://docs.anaconda.com/anaconda/user-guide/tasks/switch-environment/)
 py2 = python 2.7
 py3 = python 3.5
+NN = python 3.7.6
 ### Activate an environment 
 * `conda activate [version]`
 
