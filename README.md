@@ -127,7 +127,10 @@ This is a temporary store for the links of courses and tutorials that look inter
     * Google Cloud Certified - Professional Cloud Architect 
     * Google Cloud Certified - Professional Data Engineer
     * Google Cloud Certified - Associate Clound Engineer
-    
+
+## Change from C: directory to X
+* `cd /d X:`
+
 
 ## And I oop- Python versions?!
 [Anaconda documentation](https://docs.anaconda.com/anaconda/user-guide/tasks/switch-environment/)
